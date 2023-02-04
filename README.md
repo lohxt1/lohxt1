@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=lohxt1)
-![](https://githubprofilewatcher.vercel.app/api/views)
+![](https://github-profile-watcher.vercel.app/api/watcher/lohxt1)
 
 <!--
 **lohxt1/lohxt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
