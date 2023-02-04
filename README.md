@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=lohxt1)
 ![](https://github-profile-watcher.vercel.app/api/watcher/lohxt1)
 
 <!--
