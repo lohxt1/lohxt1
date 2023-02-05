@@ -1,4 +1,3 @@
-### 👋
 ![intro](https://lohxt1.github.io/_assets/intro.gif)
 
 <!-- <p align="center">
